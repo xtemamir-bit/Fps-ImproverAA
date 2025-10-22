@@ -1,12 +1,3 @@
---[[
-
-	Universal Aimbot Module by Exunys © CC0 1.0 Universal (2023 - 2024)
-	https://github.com/Exunys
-
-]]
-
---// Cache
-
 local game, workspace = game, workspace
 local getrawmetatable, getmetatable, setmetatable, pcall, getgenv, next, tick = getrawmetatable, getmetatable, setmetatable, pcall, getgenv, next, tick
 local Vector2new, Vector3zero, CFramenew, Color3fromRGB, Color3fromHSV, Drawingnew, TweenInfonew = Vector2.new, Vector3.zero, CFrame.new, Color3.fromRGB, Color3.fromHSV, Drawing.new, TweenInfo.new
